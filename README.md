@@ -79,6 +79,8 @@ Computer_Vision_Paper_Implementation/
 
 ### [모델 학습 결과]
 <img width="764" height="109" alt="image" src="https://github.com/user-attachments/assets/6c3317fa-ec7d-4985-b64d-2ddda80e4db3" />
+
+
 ### [객체 검출 결과]
 <img width="1000" height="600" alt="overall_object_ratios1" src="https://github.com/user-attachments/assets/46578f9e-8d81-4539-8bc6-85383bab5ac6" />
 <img width="945" height="351" alt="image" src="https://github.com/user-attachments/assets/8bb26459-5165-413e-a81c-1e1f93bf9653" />
